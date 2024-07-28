@@ -8,9 +8,6 @@
 <!--### Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogxrGit)](https://github.com/anuraghazra/github-readme-stats)
 -->
-### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogxrGit&repo=rogxrgit.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 -----------------------------------------------------------------------
 ### 🛡️ Sobre Mim
 Olá! Sou um aspirante a desenvolvedor e aprendiz de JavaScript, apaixonado por criar mundos e histórias, tanto no desenvolvimento de jogos quanto em aplicações para web e mobile. Minha jornada como programador é como uma aventura épica, onde estou sempre buscando aprender novas habilidades e enfrentar desafios.
@@ -28,7 +25,8 @@ Outras Competências: HTML, CSS, Design de interfaces, narrativa interativa, des
 ### 📚 Diário de Aventuras
 Estou sempre aprendendo algo novo e documentando minhas descobertas e desafios. Aqui estão algumas das minhas postagens e projetos recentes:
 
-###### Em breve!!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogxrGit&repo=rogxrgit.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🌟 O Próximo Capítulo
 Meu objetivo é me tornar um desenvolvedor versátil, capaz de criar aplicações incríveis e contar histórias envolventes através da tecnologia. Estou sempre em busca de novas missões e desafios, então fique de olho no meu GitHub para acompanhar minha jornada!
