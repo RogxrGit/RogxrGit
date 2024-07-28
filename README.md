@@ -17,7 +17,9 @@ Olá! Sou um aspirante a desenvolvedor e aprendiz de JavaScript, apaixonado por 
 
 ### ⚔️ Minhas Habilidades
 Linguagens: JavaScript
+
 Ferramentas e Tecnologias: Node.js, React, RPG Maker
+
 Outras Competências: HTML, CSS, Design de interfaces, narrativa interativa, desenvolvimento de jogos 2D
 
 ### 🗺️ Minhas Aventuras
