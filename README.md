@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogxrGit)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogxrGit&repo=rogxrgit.github.io-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogxrGit&repo=rogxrgit.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 -----------------------------------------------------------------------
 ### 🛡️ Sobre Mim
