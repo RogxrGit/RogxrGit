@@ -2,7 +2,7 @@
 ###### Eu estou cursando Javascript e aprendendo um pouco sobre Front-End!
 ###### Pretendo trabalhar com Web, Mobile, etc.. É um prazer estar aqui!
 -----------------------------------------------------------------------
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=RogxrGit&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogxrGit)](https://github.com/anuraghazra/github-readme-stats)
 -----------------------------------------------------------------------
 ### 🛡️ Sobre Mim
 Olá! Sou um aspirante a desenvolvedor e aprendiz de JavaScript, apaixonado por criar mundos e histórias, tanto no desenvolvimento de jogos quanto em aplicações para web e mobile. Minha jornada como programador é como uma aventura épica, onde estou sempre buscando aprender novas habilidades e enfrentar desafios.
