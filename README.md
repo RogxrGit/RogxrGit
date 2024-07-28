@@ -5,8 +5,12 @@
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogxrGit&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Linguagens utilizadas
+<!--### Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogxrGit)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
 -----------------------------------------------------------------------
 ### 🛡️ Sobre Mim
 Olá! Sou um aspirante a desenvolvedor e aprendiz de JavaScript, apaixonado por criar mundos e histórias, tanto no desenvolvimento de jogos quanto em aplicações para web e mobile. Minha jornada como programador é como uma aventura épica, onde estou sempre buscando aprender novas habilidades e enfrentar desafios.
