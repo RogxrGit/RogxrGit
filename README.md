@@ -2,6 +2,7 @@
 ###### Eu estou cursando Javascript e aprendendo um pouco sobre Front-End!
 ###### Pretendo trabalhar com Web, Mobile, etc.. É um prazer estar aqui!
 -----------------------------------------------------------------------
+### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogxrGit&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -----------------------------------------------------------------------
 ### 🛡️ Sobre Mim
