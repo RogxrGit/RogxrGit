@@ -1,6 +1,6 @@
 ###### Hello! Me chamo Roger!  
-######Eu estou cursando Javascript e aprendendo um pouco sobre Front-End!
-######Pretendo trabalhar com Web, Mobile, etc.. É um prazer estar aqui!
+###### Eu estou cursando Javascript e aprendendo um pouco sobre Front-End!
+###### Pretendo trabalhar com Web, Mobile, etc.. É um prazer estar aqui!
 
 
 🛡️ Sobre Mim
