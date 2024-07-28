@@ -13,11 +13,11 @@
 Olá! Sou um aspirante a desenvolvedor e aprendiz de JavaScript, apaixonado por criar mundos e histórias, tanto no desenvolvimento de jogos quanto em aplicações para web e mobile. Minha jornada como programador é como uma aventura épica, onde estou sempre buscando aprender novas habilidades e enfrentar desafios.
 
 ### ⚔️ Minhas Habilidades
-Linguagens: JavaScript
+Linguagens: JavaScript, HTML, CSS
 
 Ferramentas e Tecnologias: Node.js, React, RPG Maker
 
-Outras Competências: HTML, CSS, Design de interfaces, narrativa interativa, desenvolvimento de jogos 2D
+Outras Competências: Design de interfaces, narrativa interativa, desenvolvimento de jogos 2D
 
 ### 📚 Diário de Aventuras
 Estou sempre aprendendo algo novo e documentando minhas descobertas e desafios. Aqui estão algumas das minhas postagens e projetos recentes:
