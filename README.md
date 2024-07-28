@@ -19,9 +19,6 @@ Ferramentas e Tecnologias: Node.js, React, RPG Maker
 
 Outras Competências: HTML, CSS, Design de interfaces, narrativa interativa, desenvolvimento de jogos 2D
 
-### 🗺️ Minhas Aventuras
-###### Em breve!!
-
 ### 📚 Diário de Aventuras
 Estou sempre aprendendo algo novo e documentando minhas descobertas e desafios. Aqui estão algumas das minhas postagens e projetos recentes:
 
