@@ -22,7 +22,7 @@ Outras Competências: Design de interfaces, narrativa interativa, desenvolviment
 ### 📚 Diário de Aventuras
 Estou sempre aprendendo algo novo e documentando minhas descobertas e desafios. Aqui estão algumas das minhas postagens e projetos recentes:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogxrGit&repo=rogxrgit.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogxrGit&repo=rogxrgit.github.io/To-Do-App&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🌟 O Próximo Capítulo
