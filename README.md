@@ -23,7 +23,7 @@ Outras Competências: Design de interfaces, narrativa interativa, desenvolviment
 Estou sempre aprendendo algo novo e documentando minhas descobertas e desafios. Aqui estão algumas das minhas postagens e projetos recentes:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogxrGit&repo=rogxrgit.github.io/To-Do-App/&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogxrGit&repo=rogxrgit.github.io/To-Do-App/))](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogxrGit&repo=RogxrGit/To-Do-App))](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌟 O Próximo Capítulo
 Meu objetivo é me tornar um desenvolvedor versátil, capaz de criar aplicações incríveis e contar histórias envolventes através da tecnologia. Estou sempre em busca de novas missões e desafios, então fique de olho no meu GitHub para acompanhar minha jornada!
